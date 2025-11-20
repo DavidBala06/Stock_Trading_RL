@@ -65,6 +65,8 @@ In the latest backtest on Tesla (TSLA) stock data (2023-2024), the agent achieve
 AI Profit: +81.74%
 Market Profit (Buy & Hold): +76.13%
 The agent demonstrated an ability to exit the market during high volatility, preserving gains when the underlying asset price dropped.
+<img width="1839" height="905" alt="Captură de ecran 2025-11-20 233610" src="https://github.com/user-attachments/assets/560af67e-97ac-45fe-9192-1ab1a49d6252" />
+
 
 License:
 This project is open-source and available under the MIT License.
